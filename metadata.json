@@ -1,0 +1,5 @@
+{
+  "name": "Topic Search by TOTLE",
+  "description": "A simple and clean React component that displays a list of topics from an in-memory array and allows for real-time, case-insensitive filtering via a search input. This application showcases a modern UI for browsing a catalogue management system.",
+  "requestFramePermissions": []
+}
